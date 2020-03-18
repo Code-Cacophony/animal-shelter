@@ -1,0 +1,15 @@
+.animal {
+  width: 300px;
+  float: left;
+  border: 2px solid black;
+
+}
+
+.animal h2 {
+  color: red;
+}
+
+img {
+  height: 250px;
+  width: 300;
+}
